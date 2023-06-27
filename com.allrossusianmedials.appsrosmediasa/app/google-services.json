@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101069789412",
+    "project_id": "ros-media-c2bcf",
+    "storage_bucket": "ros-media-c2bcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101069789412:android:cecc1a3a6eea961b7e34f1",
+        "android_client_info": {
+          "package_name": "com.allrossusianmedials.appsrosmediasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101069789412-o7f5kr1dqjs4eb7f7d5odo7387ncuf0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3CCWyTnBkl1xaLizAB1JxLLsNUVSeV9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101069789412-o7f5kr1dqjs4eb7f7d5odo7387ncuf0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
